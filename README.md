@@ -3,7 +3,7 @@
 
 # diegogonzalez48
 
-<img src="https://campus.copernic.cat/pluginfile.php/33256/user/icon/adaptable/f1?rev=3696527" alt="diego"> 
+<img src="https://avatars.githubusercontent.com/u/132007576?s=400&u=c799868d0c0b2a959851edda2bda2705efd993b8&v=4" alt="diego"> 
 
 <!--
 **diegogonzalez48/diegogonzalez48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

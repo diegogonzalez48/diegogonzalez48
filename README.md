@@ -20,6 +20,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Professor funcionari de carrera de Formació Professional a l'Institut Nicolau Copèrnic
+Família professional: Informàtica i comunicacions
+PS 507
+
+School-based setting 
+Vocational/Technical education (VET)
+Post-compulsory
+Public
+Theoretical and practical
+Teacher
+Civil servant
+
+
+
+Altres:
 
 
 <a href="https://www.sourcetreeapp.com/"> Programa desktop per Windows sourcetree </a>

@@ -24,13 +24,7 @@ Professor funcionari de carrera de Formació Professional a l'Institut Nicolau C
 Família professional: Informàtica i comunicacions
 PS 507
 
-School-based setting 
-Vocational/Technical education (VET)
-Post-compulsory
-Public
-Theoretical and practical
-Teacher
-Civil servant
+School-based setting, Vocational/Technical education (VET), Post-compulsory, Public, Theoretical and practical, Teacher, Civil servant
 
 
 
